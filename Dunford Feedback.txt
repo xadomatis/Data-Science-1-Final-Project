@@ -1,0 +1,7 @@
+Sounds like a great project! 
+
+A few comments:
+- I'd be interested in learning more about how the unbanked rate is distributed. I'm assuming if the unit of analysis is at the household level, that this variable is a 1 or 0 (do you use a bank or not). Am I understanding that right?
+- I'm curious about any potential biases in these data and how you think that might shape the predictiveness of the model. (Moreover, it would be interesting if we could pick up those biases in the features that your model relies on to make its prediction). 
+- What's the sample size of the data?
+- What's the missingness in the data? Are all features complete? I could imagine that the features that would be most predictive of your outcome might also be systematically missing (if they're sensitive topics, etc).
