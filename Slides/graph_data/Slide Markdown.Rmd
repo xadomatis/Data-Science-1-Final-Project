@@ -1,0 +1,54 @@
+---
+title: 'PPOL 564: Estimating Unbanked Rates With Demographic Information'
+author: "Xavier Adomatis"
+date: "12/1/2021"
+output:
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Problem Statement and Background
+
+Text
+
+## Methods and Approaches Considered
+
+Text
+
+## Methods and Tools Used
+
+Text
+
+## Preliminary Results and Conclusions (Bin/Cont Mix)
+
+Initially, I attempted to use our class machine learning models to predict unbanked rate; through the basic pipeline, I recieved results indicating 
+
+
+![Prediction Graph without all variables in dummy format]("~/Desktop/DSPP/DS/Data-Science-1-Final-Project/Slides/graph_data/Prediction_Graph.png")
+
+## Lessons Learned and Plans
+
+Text
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
