@@ -6,9 +6,10 @@ output:
   ioslides_presentation: default
   beamer_presentation: default
 ---
-
+output: revealjs::revealjs_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
 
 ## Problem Statement and Background
@@ -28,7 +29,7 @@ Text
 Initially, I attempted to use our class machine learning models to predict unbanked rate; through the basic pipeline, I recieved results indicating 
 
 
-![Prediction Graph without all variables in dummy format]("~/Desktop/DSPP/DS/Data-Science-1-Final-Project/Slides/graph_data/Prediction_Graph.png")
+![Prediction Graph without all variables in dummy format]("users/xavier/Desktop/DSPP/DS/Data-Science-1-Final-Project/Slides/graph_data/Prediction_Graph.png")
 
 ## Lessons Learned and Plans
 
