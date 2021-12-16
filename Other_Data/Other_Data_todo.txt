@@ -1,4 +1,0 @@
-To do:
-Import state and MSA level geographic variables
-Create PDF Scraper for bank statistics
-Manipulate those statistics into a dataset classed by state and append to the analysis document
